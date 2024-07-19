@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ping_Pong">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Ping_Pong.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
